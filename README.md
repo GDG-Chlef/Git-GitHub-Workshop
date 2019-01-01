@@ -1,6 +1,5 @@
 # GIT and GitHub Workshop
 
-
 ## git log  
 ### scroll on log pager
 Git uses the command line pager, Less, to page through all of the information. The important keys for Less are:  
@@ -305,4 +304,4 @@ A pull request is a request for the source repository to pull in your commits an
 - create a new pull request and choose the branch that has your new commits
 
 
-
+[ Slide ](https://drive.google.com/open?id=1R8GsifQk1wESkjIwYJjrYpKnPVmVrZa4w7Zu6sqts1I)
