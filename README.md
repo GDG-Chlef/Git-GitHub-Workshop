@@ -306,4 +306,4 @@ A pull request is a request for the source repository to pull in your commits an
 - create a new pull request and choose the branch that has your new commits
 
 
-
+## [ Slide ](https://drive.google.com/open?id=1R8GsifQk1wESkjIwYJjrYpKnPVmVrZa4w7Zu6sqts1I)
