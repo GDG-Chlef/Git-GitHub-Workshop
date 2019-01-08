@@ -1,5 +1,7 @@
 # GIT and GitHub Workshop
 
+Quick Cheatsheet [here](atlassian-git-cheatsheet.pdf)
+
 ## git log  
 ### scroll on log pager
 Git uses the command line pager, Less, to page through all of the information. The important keys for Less are:  
