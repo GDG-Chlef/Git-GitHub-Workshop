@@ -1,6 +1,6 @@
 # GIT and GitHub Workshop
 
-Quick Cheatsheet: [[here](atlassian-git-cheatsheet.pdf)]
+Quick Cheatsheet [[here](atlassian-git-cheatsheet.pdf)]
 
 ## git log  
 ### scroll on log pager
